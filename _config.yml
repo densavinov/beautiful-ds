@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Denis Savinov Website
+title: Denis Savinov
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - University of Melbourne Applications: "https://github.com/densavinov/UofMelbourne/blob/master/Grants%20for%20University%20of%20Melbourne.ipynb"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
