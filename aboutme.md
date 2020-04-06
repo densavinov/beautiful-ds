@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: The Essentials.
+published: true
 ---
 
 My name is Denis Savinov. Let me tell you about myself!
@@ -9,7 +10,15 @@ My name is Denis Savinov. Let me tell you about myself!
 ### What I do 
 
 I'm a data enthusiast with interests in politics, sports, and predictive analytics. I've developed an interest in statistics and data during early stages of my undergrad and now I do it professionaly as well as part of self-development. 
-Majority of my professional projects consist of scraping various databases, open-sources or paid external data. 
+
+Majority of my professional projects consist of 
+* Coming up with an idea/ a way to leverage accessible data and assist upper management with making informed decisions.  
+* Scraping various databases, cloud or paid external data 
+* Creating automated scripts or data workflows to clean, aggregate and load into consolidated tables
+* Design and build a tool (dashboard, EUC, report, etc) for partners to make their data-driven decisions
+* Engage with key business partners to communicate relevant insights and present the tool  
+
+
 
 
 
