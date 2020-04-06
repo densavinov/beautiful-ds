@@ -4,7 +4,7 @@
 title: Denis Savinov
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Personal Website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -53,7 +53,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/avatar-icon.jpg"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
