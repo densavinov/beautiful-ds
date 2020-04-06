@@ -35,4 +35,4 @@ For my **personal** development within data field I regularly take data science 
 | ![AWS](/img/about/aws.png "AWS"){: .icon} | ![AWS](/img/about/alteryx.png "AWS"){: .icon} | ![excel](/img/about/Excel.png "excel"){: .icon} |
 {: .no-border}
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![test image size](img/about/python.png){:height="50%" width="50%"}
