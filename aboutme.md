@@ -28,9 +28,8 @@ For my **personal** development within data field I regularly take data science 
 
 ### Tools
 
-| **Python** | **R** | **SQL** |
+| **Python** | **SQL** | **Tableau** |
 |-------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|
-| ![Python](/img/about/python.png "Python"){: .icon} | ![SQL](/img/about/sql.png "SQL"){: .icon} | ![Alteryx](/img/about/alteryx.png "R"){: .icon}
-| **HTML/CSS/JS** | **Amazon Web Services** | **D3.js** |
-| ![HTML/CSS/JS](/img/about/html_css_js.png "HTML/CSS/JS"){: .icon} | ![AWS](/img/about/aws.png "AWS"){: .icon} | ![D3.js](/img/about/d3.png "D3.js"){: .icon} |
-{: .no-border}
+| ![Python](/img/about/python.png "Python"){: .icon} | ![SQL](/img/about/sql.png "SQL"){: .icon} | ![Alteryx](/img/about/tableau.png "Tableau"){: .icon}
+| **Amazon Wev Services** | **Alteryx** | **Excel** |
+| ![AWS](/img/about/aws.png "AWS"){: .icon} | ![AWS](/img/about/aws.png "AWS"){: .icon} | ![excel](/img/about/excel.png "excel"){: .icon} |{: .no-border}
