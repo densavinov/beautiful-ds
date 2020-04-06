@@ -33,4 +33,4 @@ For my **personal** development within data field I regularly take data science 
 | ![Python](/img/about/python.png "Python"){:height="70px" width="70px"} | ![SQL](/img/about/sql.png "SQL"){:height="70px" width="70px"} | ![Alteryx](/img/about/tableau.jpg "Tableau"){:height="70px" width="70px"} |
 | **Amazon Wev Services** | **Alteryx** | **Excel** |
 | ![AWS](/img/about/aws.png "AWS"){:height="70px" width="70px"} | ![AWS](/img/about/alteryx.png "AWS"){:height="70px" width="70px"} | ![excel](/img/about/Excel.png "excel"){:height="70px" width="70px"} |
-{: .no-
+{: .no-border}
