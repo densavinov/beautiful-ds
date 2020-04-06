@@ -1,13 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The Essentials.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Denis Savinov. Let me tell you about myself!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### What I do 
+
+I'm a data enthusiast with interests in politics, sports, and predictive analytics. I've developed an interest in statistics and data during early stages of my undergrad and now I do it professionaly as well as part of self-development. 
+Majority of my professional projects consist of scraping various databases, open-sources or paid external data. 
+
+
 
 What else do you need?
 
