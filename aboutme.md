@@ -30,9 +30,9 @@ For my **personal** development within data field I regularly take data science 
 
 | **Python** | **SQL** | **Tableau** |
 |-----|-------------------------------------------|----------------------------------------------|
-| ![Python](/img/about/python.png "Python"){: .icon} | ![SQL](/img/about/sql.png "SQL"){: .icon} | ![Alteryx](/img/about/tableau.jpg "Tableau"){: .icon} |
+| ![Python](/img/about/python.png "Python"){:height="600px" width="600px"} | ![SQL](/img/about/sql.png "SQL"){:height="600px" width="600px"} | ![Alteryx](/img/about/tableau.jpg "Tableau"){:height="600px" width="600px"} |
 | **Amazon Wev Services** | **Alteryx** | **Excel** |
-| ![AWS](/img/about/aws.png "AWS"){: .icon} | ![AWS](/img/about/alteryx.png "AWS"){: .icon} | ![excel](/img/about/Excel.png "excel"){: .icon} |
+| ![AWS](/img/about/aws.png "AWS"){:height="600px" width="600px"} | ![AWS](/img/about/alteryx.png "AWS"){:height="600px" width="600px"} | ![excel](/img/about/Excel.png "excel"){:height="600px" width="600px"} |
 {: .no-border}
 
-![test image size](img/about/python.png){:height="50px" width="50px"}
+![test image size](img/about/python.png){: .icon} 
