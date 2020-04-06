@@ -27,3 +27,10 @@ Majority of my **professional** projects consist of
 For my **personal** development within data field I regularly take data science courses, build advanced analytics models on open-source datasets, which you can find under **Projects** section. 
 
 ### Tools
+
+| **Python** | **R** | **SQL** |
+|-------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|
+| ![Python](/img/about/python.png "Python"){: .icon} | ![SQL](/img/about/sql.png "SQL"){: .icon} | ![Alteryx](/img/about/alteryx.png "R"){: .icon}
+| **HTML/CSS/JS** | **Amazon Web Services** | **D3.js** |
+| ![HTML/CSS/JS](/img/about/html_css_js.png "HTML/CSS/JS"){: .icon} | ![AWS](/img/about/aws.png "AWS"){: .icon} | ![D3.js](/img/about/d3.png "D3.js"){: .icon} |
+{: .no-border}
