@@ -29,7 +29,7 @@ For my **personal** development within data field I regularly take data science 
 ### Tools
 
 | **Python** | **SQL** | **Tableau** |
-|-------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|
+|---------------------|-------------------------------------------|----------------------------------------------|
 | ![Python](/img/about/python.png "Python"){: .icon} | ![SQL](/img/about/sql.png "SQL"){: .icon} | ![Alteryx](/img/about/tableau.jpg "Tableau"){: .icon}
 | **Amazon Wev Services** | **Alteryx** | **Excel** |
 | ![AWS](/img/about/aws.png "AWS"){: .icon} | ![AWS](/img/about/alteryx.png "AWS"){: .icon} | ![excel](/img/about/Excel.png "excel"){: .icon} |
