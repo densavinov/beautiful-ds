@@ -30,7 +30,7 @@ For my **personal** development within data field I regularly take data science 
 
 | **Python** | **SQL** | **Tableau** |
 |-----|-------------------------------------------|----------------------------------------------|
-| ![Python](/img/about/python.png "Python"){:height="70px" width="70px"} | ![SQL](/img/about/sql.png "SQL"){:height="70px" width="70px"} | ![Alteryx](/img/about/tableau.jpg "Tableau"){:height="70px" width="70px"} |
-| **Amazon Wev Services** | **Alteryx** | **Excel** |
-| ![AWS](/img/about/aws.png "AWS"){:height="70px" width="70px"} | ![AWS](/img/about/alteryx.png "AWS"){:height="70px" width="70px"} | ![excel](/img/about/Excel.png "excel"){:height="70px" width="70px"} |
+| ![Python](/img/about/python.png "Python"){:height="90px" width="90px"} | ![SQL](/img/about/sql.png "SQL"){:height="90px" width="90px"} | ![Alteryx](/img/about/tableau.jpg "Tableau"){:height="90px" width="90px"} |
+| **Amazon Web Services** | **Alteryx** | **Excel** |
+| ![AWS](/img/about/aws.png "AWS"){:height="90px" width="90px"} | ![AWS](/img/about/alteryx.png "AWS"){:height="90px" width="90px"} | ![excel](/img/about/Excel.png "excel"){:height="90px" width="90px"} |
 {: .no-border}
