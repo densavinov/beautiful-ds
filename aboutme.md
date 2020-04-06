@@ -30,7 +30,7 @@ For my **personal** development within data field I regularly take data science 
 
 | **Python** | **SQL** | **Tableau** |
 |-----|-------------------------------------------|----------------------------------------------|
-| ![Python](/img/about/python.png =100x20 "Python"){: .icon} | ![SQL](/img/about/sql.png "SQL"){: .icon} | ![Alteryx](/img/about/tableau.jpg "Tableau"){: .icon}
+| ![Python](/img/about/python.png "Python" =100x20){: .icon} | ![SQL](/img/about/sql.png "SQL"){: .icon} | ![Alteryx](/img/about/tableau.jpg "Tableau"){: .icon}
 | **Amazon Wev Services** | **Alteryx** | **Excel** |
 | ![AWS](/img/about/aws.png "AWS"){: .icon} | ![AWS](/img/about/alteryx.png "AWS"){: .icon} | ![excel](/img/about/Excel.png "excel"){: .icon} |
 {: .no-border}
