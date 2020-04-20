@@ -21,7 +21,7 @@ description: Personal Website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Projects:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - University of Melbourne Applications: "https://github.com/densavinov/UofMelbourne/blob/master/Grants%20for%20University%20of%20Melbourne.ipynb"
 #  Author's home: "http://deanattali.com"
